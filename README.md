@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to My GitHub Profile
 
-![Profile GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🚀 About Me
 - 👨‍💻 Hi, I'm **Yohannes Wale**, a passionate Full Stack Developer.
