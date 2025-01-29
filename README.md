@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to My GitHub Profile
+## Hi there! 👋 Welcome to Leojo's Profile
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
