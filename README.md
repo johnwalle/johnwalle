@@ -36,10 +36,10 @@
 
 ### 🌟 Portfolio
 🚀 Check out my latest projects and works at:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome)](https://leojo-portfolio.vercel.app)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&theme=radical)
 
 ### 📫 Contact Me
 - 🔗 LinkedIn: [yohanneswalle](https://www.linkedin.com/in/yohanneswalle)
