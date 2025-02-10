@@ -50,10 +50,6 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=johnwalle&theme=juicyfresh)
 
-## 📅 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=johnwalle&theme=github)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&theme=radical)
