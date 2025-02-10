@@ -38,15 +38,6 @@
 🚀 Check out my latest projects and works at:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome)](https://leojo-portfolio.vercel.app)
 
-### 📊 GitHub Stats
-# Hi there, I'm John Walle 👋
-
-Welcome to my GitHub profile! Here you can see my GitHub activity and stats.
-
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&hide_title=true&count_private=true&hide=prs,issues)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnwalle)
@@ -63,27 +54,7 @@ Welcome to my GitHub profile! Here you can see my GitHub activity and stats.
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=johnwalle&theme=github)
 
-## 🌱 Current Learning
-
-- I'm currently learning **Machine Learning**.
-- I’m also exploring **Web Development**.
-
-## 💬 How to reach me
-
-- LinkedIn: [John Walle](https://www.linkedin.com/in/johnwalle/)
-- Twitter: [@johnwalle](https://twitter.com/johnwalle)
-
-## 📝 Latest Blog Posts
-
-- [How I learned Machine Learning](https://johnwalle.com/blog/machine-learning)
-- [Exploring the Web Development World](https://johnwalle.com/blog/web-dev)
-- [Top 5 Coding Challenges I Solved](https://johnwalle.com/blog/coding-challenges)
-
-## 💡 Fun Fact
-
-- I once solved a coding problem in **30** minutes! 😎
-
-
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&theme=radical)
 
