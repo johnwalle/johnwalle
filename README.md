@@ -54,6 +54,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&theme=radical)
 
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/johnwalle.github-readme)
+
 ### 📫 Contact Me
 - 🔗 LinkedIn: [yohanneswalle](https://www.linkedin.com/in/yohanneswalle)
 - 💬 Telegram: [Leojo_W](https://t.me/Leojo_W)
