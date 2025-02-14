@@ -54,7 +54,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwalle&show_icons=true&theme=radical)
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/johnwalle.github-readme)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/johnwalle&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 ### 📫 Contact Me
 - 🔗 LinkedIn: [yohanneswalle](https://www.linkedin.com/in/yohanneswalle)
